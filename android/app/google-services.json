@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063046445442",
+    "project_id": "rydusuarios",
+    "storage_bucket": "rydusuarios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063046445442:android:ac47ddc6570f450fc6f79b",
+        "android_client_info": {
+          "package_name": "com.rydusuarios.rydusuarios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfnkbQFV12uo7NqoGVxEzVdsDITWSJhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
